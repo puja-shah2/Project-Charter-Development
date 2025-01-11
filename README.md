@@ -1,0 +1,1 @@
+Created a detailed project charter for the Science Olympiad Scoring System (SOSS), outlining business goals, project approach, success indicators, and assumptions, demonstrating project management expertise.
